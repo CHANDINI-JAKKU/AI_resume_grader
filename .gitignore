@@ -1,0 +1,16 @@
+# Node artifacts
+node_modules/
+dist/
+
+# Logs
+logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Environment files (ignore local secrets)
+backend/.env
+frontend/.env
+.env
