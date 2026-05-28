@@ -14,3 +14,6 @@ logs
 backend/.env
 frontend/.env
 .env
+
+# Local MongoDB data
+data/db/
